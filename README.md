@@ -7,6 +7,8 @@
 
 ![max example](screenshots/max.gif)
 
+Пример как выглядит плеер в браузере: [Плеер](https://leenythebear.github.io/video-player-jslib/dist/index.html)
+
 Построен на базе библиотеки [Playable](https://wix.github.io/playable/).
 
 ## Примеры
